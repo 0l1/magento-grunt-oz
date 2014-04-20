@@ -48,3 +48,5 @@ public_html/skin/adminhtml/
 public_html/skin/frontend/base/
 public_html/skin/frontend/default/
 public_html/skin/install/
+.sass-cache/
+node_modules/
